@@ -1,0 +1,5 @@
+El comando whoami muestra el usuario que está utilizando actualmente el sistema.
+
+El comando uname -a muestra información general del sistema operativo, incluyendo el nombre del sistema, versión y arquitectura. En Windows puede utilizarse hostname para identificar el nombre del equipo.
+
+Conocer esta información es útil para administrar servidores porque permite identificar el entorno de trabajo, verificar configuraciones y facilitar tareas de mantenimiento y soporte técnico.

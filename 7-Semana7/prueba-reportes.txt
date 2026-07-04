@@ -1,0 +1,1 @@
+Cuando se envía un reporte mediante la ruta POST /reportes, la información se almacena en el array reportes. Al consultar la ruta GET /reportes, el servidor devuelve la lista completa de reportes registrados hasta ese momento. Esto permite registrar y consultar información comunitaria de forma organizada.
