@@ -1,0 +1,23 @@
+Modelo básico de datos
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la información de las causas comunitarias registradas en la plataforma para que puedan ser consultadas y apoyadas.
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos realizados por los ciudadanos a cada causa y llevar el control de la participación.
